@@ -1,5 +1,5 @@
 # 🚅 Railway Position Estimator
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=USERNAME-GITHUB-KAMU)](https://github.com/ryo-ma/github-profile-trophy)
 ![Language](https://img.shields.io/badge/Language-Scilab-red?style=flat-square)
 ![Method](https://img.shields.io/badge/Method-Lagrange_Interpolation-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)

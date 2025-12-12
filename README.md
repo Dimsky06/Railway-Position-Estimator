@@ -1,4 +1,4 @@
-# 🚅 RailwayPositionEstimator
+# 🚅 Railway-Position-Estimator
 
 ![Language](https://img.shields.io/badge/Language-Scilab-red?style=flat-square)
 ![Method](https://img.shields.io/badge/Method-Lagrange_Interpolation-blue?style=flat-square)

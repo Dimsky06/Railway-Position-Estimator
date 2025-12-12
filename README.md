@@ -50,9 +50,9 @@ This algorithm compares two methods:
 1.  Ensure you have **Scilab** installed on your machine.
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/UsernameGitHubKamu/NamaRepoKamu.git](https://github.com/UsernameGitHubKamu/NamaRepoKamu.git)
+    git clone [https://github.com/Dimsky06/Railway-Position-Estimator.git](https://github.com/Dimsky06/Railway-Position-Estimator.git)
     ```
-3.  Open the file `Project_KRL.sci` in **SciNotes**.
+3.  Open the file `ProjectKRL_Dimas.sci` in **SciNotes**.
 4.  Run the script (Press Play/Execute).
 
 ---
